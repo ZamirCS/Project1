@@ -3,7 +3,7 @@ total_wind = 0
 days_count = 0
 
 while True:
-    information = input("Enter rain in inches, enter wind speed in mph, or -1.0 to finis\n")
+    information = input("Enter rain in inches, enter wind speed in mph, or -1.0 to finish\n")
     if information == "-1.0":
         break
     else:
